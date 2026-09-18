@@ -1,0 +1,18 @@
+{
+  "PlayerData": [
+    {
+      "ID": 93433,
+      "Forename": "Dani",
+      "Surname": "Gomez",
+      "Overall": 75,
+      "Potential": 75,
+      "Age": 28,
+      "Position": "ST",
+      "Foot": "Right",
+      "Height": 178,
+      "Weight": 70,
+      "Nation": "Spain",
+      "ClubID": 528
+    }
+  ]
+}
